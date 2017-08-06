@@ -1,4 +1,4 @@
-To start contriuting </br>
+To start contributing </br>
 
 </br>
 </br>
