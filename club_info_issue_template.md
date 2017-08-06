@@ -21,7 +21,7 @@ Hello all this is the issue template to submit the club's data so we can arrange
 ###Do you have the resources to remotely take part in activities that will be conducted?(stream,speakers etc) : </br>
 
 
-###Does your RC know yu are a part of this system? [If no then you need to inform them]: </br>
+###Does your RC know you are a part of this system? [If no then you need to inform them]: </br>
 
 
 ###What activities would you like the initiative to conduct? : </br>
