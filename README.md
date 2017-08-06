@@ -13,6 +13,12 @@ This repository is towards the discussion and arrangements of various activities
 
 Please raise topics in the issue tab of the repository.</br>
 
+For those clubs who are new to github follow these steps </br>
+
+[1]  - Open the club_info_issue_template.md file</br>
+[2]  - See the fields required to be filled up</br>
+[3]  - Click on Issue tab and creat a new issue.
+[4]  - Fill up the details in the issue tab as per the template and submit it
 
 
 Happy Coding!</br>
